@@ -1,0 +1,5 @@
+D:\Visual_Studio_projects\DesingPatternsProject\PatternDecorator\bin\Debug\PatternDecorator.exe
+D:\Visual_Studio_projects\DesingPatternsProject\PatternDecorator\bin\Debug\PatternDecorator.pdb
+D:\Visual_Studio_projects\DesingPatternsProject\PatternDecorator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual_Studio_projects\DesingPatternsProject\PatternDecorator\obj\x86\Debug\PatternDecorator.exe
+D:\Visual_Studio_projects\DesingPatternsProject\PatternDecorator\obj\x86\Debug\PatternDecorator.pdb

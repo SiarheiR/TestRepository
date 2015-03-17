@@ -1,0 +1,5 @@
+D:\Visual_Studio_projects\DesingPatternsProject\DesingPatternsProject\bin\Debug\DesingPatternsProject.exe
+D:\Visual_Studio_projects\DesingPatternsProject\DesingPatternsProject\bin\Debug\DesingPatternsProject.pdb
+D:\Visual_Studio_projects\DesingPatternsProject\DesingPatternsProject\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual_Studio_projects\DesingPatternsProject\DesingPatternsProject\obj\x86\Debug\DesingPatternsProject.exe
+D:\Visual_Studio_projects\DesingPatternsProject\DesingPatternsProject\obj\x86\Debug\DesingPatternsProject.pdb

@@ -1,0 +1,5 @@
+D:\Visual_Studio_projects\DesingPatternsProject\PatternObserver\bin\Debug\PatternObserver.exe
+D:\Visual_Studio_projects\DesingPatternsProject\PatternObserver\bin\Debug\PatternObserver.pdb
+D:\Visual_Studio_projects\DesingPatternsProject\PatternObserver\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Visual_Studio_projects\DesingPatternsProject\PatternObserver\obj\x86\Debug\PatternObserver.exe
+D:\Visual_Studio_projects\DesingPatternsProject\PatternObserver\obj\x86\Debug\PatternObserver.pdb
